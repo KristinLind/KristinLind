@@ -1,4 +1,4 @@
-[# Hi, I'm Kristin 👋
+# Hi, I'm Kristin 👋
 
 ### Web Designer | Dental Technology | Software Development | Digital Marketing
 
