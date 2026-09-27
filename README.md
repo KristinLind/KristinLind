@@ -1,8 +1,10 @@
 # Hi, I'm Kristin 👋
 
-### Web Designer | Dental Technology | Software Development | Digital Marketing
+### Web Designer | Dental Technology | Software Development | Training | Digital Marketing
 
-I'm completing my B.S. in Software Development while bringing 35+ years of experience in dentistry, business management, training, and patient communication to technology and digital design.
+I'm completing my B.S. in Software Development while bringing 35+ years of experience in dentistry, business management, clinical training, and patient communication to software development and digital solutions.
+
+I have extensive experience in clinical dentistry, practice management, dental technology, and patient education, including CAD/CAM and digital workflows, clinical training, hands-on product demonstrations, and helping dental professionals integrate new materials and technology into patient care.
 
 I enjoy combining creativity, technology, and real-world experience to build practical, user-friendly digital solutions.
 
